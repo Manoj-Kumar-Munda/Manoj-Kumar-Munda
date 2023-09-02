@@ -1,6 +1,5 @@
 # Welcome to Manoj Kumar Munda's GitHub Profile!
 
-![Profile Banner](link_to_your_banner_image)
 
 Hello there! 👋 Welcome to my GitHub profile. I'm Manoj Kumar Munda, and I'm passionate about frontend development, with a focus on React.js, JavaScript, HTML, and CSS. I'm excited to share my coding journey and projects with you.
 
