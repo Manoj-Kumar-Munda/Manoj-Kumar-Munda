@@ -1,7 +1,8 @@
 # Welcome to Manoj Kumar Munda's GitHub Profile!
 
 
-Hello there! 👋 Welcome to my GitHub profile. I'm Manoj Kumar Munda, and I'm passionate about frontend development, with a focus on React.js, JavaScript, HTML, and CSS. I'm excited to share my coding journey and projects with you.
+Hello there! 
+👋 Welcome to my GitHub profile. I'm Manoj Kumar Munda, and I'm passionate about frontend development, with a focus on React.js, JavaScript, HTML, and CSS. I'm excited to share my coding journey and projects with you.
 
 ## About Me
 
@@ -23,11 +24,11 @@ I'm currently diving deep into Next.js, a powerful framework for building server
 
 Here are a few highlights of the projects you can find in my repositories:
 
-1. CraveBite (project_repo_link)
-   Description of the project and the technologies used.
+1. CraveBite (https://github.com/Manoj-Kumar-Munda/CraveBite)
 
-2. Youtube Clone (project_repo_link)
-   Description of the project and the technologies used.
+
+2. Youtube Clone (https://github.com/Manoj-Kumar-Munda/youtube-clone)
+
 
 Feel free to explore my repositories to find more exciting projects I've been working on!
 
