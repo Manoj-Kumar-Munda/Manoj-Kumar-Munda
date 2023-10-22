@@ -8,6 +8,9 @@ Hello there!
 
 I'm a dedicated and enthusiastic frontend developer who loves crafting beautiful and responsive user interfaces. With a strong foundation in HTML, CSS, and JavaScript, I'm on a journey to master the art of building web applications using React.js. I believe in the power of clean code and user-centered design.
 
+## Resume
+[Resume](https://drive.google.com/drive/folders/1LVo_U5LK_rSanz8KIk0ZMq_rRNHSo4ta)
+
 ## My Interests
 
 - Frontend Development
