@@ -1,4 +1,4 @@
-# Welcome to Manoj Kumar Munda's GitHub Profile!
+# Welcome to Manoj's GitHub Profile!
 
 
 Hello there! 
