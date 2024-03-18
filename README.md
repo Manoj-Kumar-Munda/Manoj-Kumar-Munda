@@ -41,7 +41,7 @@ I'm always open to collaboration and connecting with fellow developers. If you h
 
 - Email: manojkrmunda828@email.com
 - LinkedIn: [Manoj Kumar Munda](www.linkedin.com/in/manoj-kumar-munda-6073ba172)
-- Twitter: [Manoj Kumar Munda](https://twitter.com/manoj52377)
+- Twitter: [Manoj Kumar Munda](https://twitter.com/manojdev99)
 
 Let's learn and grow together in the world of frontend development! Thanks for visiting my GitHub profile.
 
