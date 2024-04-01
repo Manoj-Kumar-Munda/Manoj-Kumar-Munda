@@ -2,11 +2,11 @@
 
 
 Hello there! 
-👋 Welcome to my GitHub profile. I'm Manoj Kumar Munda, and I'm passionate about frontend development, with a focus on React.js, JavaScript, HTML, and CSS. I'm excited to share my coding journey and projects with you.
+👋 Welcome to my GitHub profile. I'm Manoj Kumar Munda, and I'm passionate about frontend development and backend development, with a focus on React.js, Node.js, Express.j JavaScript, HTML, and CSS. I'm excited to share my coding journey and projects with you.
 
 ## About Me
 
-I'm a dedicated and enthusiastic frontend developer who loves crafting beautiful and responsive user interfaces. With a strong foundation in HTML, CSS, and JavaScript, I'm on a journey to master the art of building web applications using React.js. I believe in the power of clean code and user-centered design.
+I'm a dedicated and enthusiastic full-stack developer who loves crafting beautiful and responsive user interfaces. With a strong foundation in HTML, CSS, and JavaScript, I'm on a journey to master the art of building web applications using React.js. I believe in the power of clean code and user-centered design.
 
 ## Resume
 [Resume](https://drive.google.com/file/d/1mj6gL5MdOgwCBLHX4DytMtPEHfNE-n17/view?usp=drive_link)
@@ -14,6 +14,10 @@ I'm a dedicated and enthusiastic frontend developer who loves crafting beautiful
 ## My Interests
 
 - Frontend Development
+- Backend Development
+- Node.js
+- Express.js
+- MongoDB
 - React.js
 - JavaScript
 - HTML
