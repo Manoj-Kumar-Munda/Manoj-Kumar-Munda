@@ -1,55 +1,27 @@
-# Welcome to Manoj's GitHub Profile!
+<h1 align="center">Hi 👋, I'm Manoj</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-kumar-munda&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-kumar-munda" /> </p>
 
-Hello there! 
-👋 Welcome to my GitHub profile. I'm Manoj Kumar Munda, and I'm passionate about frontend development and backend development, with a focus on React.js, Node.js, Express.j JavaScript, HTML, and CSS. I'm excited to share my coding journey and projects with you.
+- 🌱 I’m currently learning **PostgreSQL, Docker, AWS**
 
-## About Me
+- 💬 Ask me about **react, node js, express, mongoDB**
 
-I'm a dedicated and enthusiastic full-stack developer who loves crafting beautiful and responsive user interfaces. With a strong foundation in HTML, CSS, and JavaScript, I'm on a journey to master the art of building web applications using React.js. I believe in the power of clean code and user-centered design.
+- 📫 How to reach me **manojkrmunda828@gmail.com**
 
-## Resume
-[Resume](https://drive.google.com/file/d/15DLG_GxPPkoPpzZw5QrUx0AUP7xsrkjT/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/15DLG_GxPPkoPpzZw5QrUx0AUP7xsrkjT/view?usp=drive_link](https://drive.google.com/file/d/15DLG_GxPPkoPpzZw5QrUx0AUP7xsrkjT/view?usp=drive_link)
 
-## My Interests
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manojdev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojdev99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manojkumarmunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojkumarmunda" height="30" width="40" /></a>
+</p>
 
-- Frontend Development
-- Backend Development
-- Node.js
-- Express.js
-- MongoDB
-- React.js
-- JavaScript
-- HTML
-- CSS
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Current Learning Focus
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-kumar-munda&show_icons=true&locale=en&layout=compact" alt="manoj-kumar-munda" /></p>
 
-I'm currently diving deep into Next.js, a powerful framework for building server-rendered React applications. I'm excited to leverage its features to create faster and more SEO-friendly web applications. Stay tuned for some cool Next.js projects coming your way!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoj-kumar-munda&show_icons=true&locale=en" alt="manoj-kumar-munda" /></p>
 
-## Projects
-
-Here are a few highlights of the projects you can find in my repositories:
-
-1. CraveBite (https://github.com/Manoj-Kumar-Munda/CraveBite)
-
-
-2. Youtube Clone (https://github.com/Manoj-Kumar-Munda/youtube-clone)
-
-
-Feel free to explore my repositories to find more exciting projects I've been working on!
-
-## Contact Me
-
-I'm always open to collaboration and connecting with fellow developers. If you have any questions, suggestions, or just want to chat about frontend development or any related topics, feel free to reach out to me:
-
-- Email: manojkrmunda828@email.com
-- LinkedIn: [Manoj Kumar Munda](www.linkedin.com/in/manoj-kumar-munda-6073ba172)
-- Twitter: [Manoj Kumar Munda](https://twitter.com/manojdev99)
-
-Let's learn and grow together in the world of frontend development! Thanks for visiting my GitHub profile.
-
-Happy coding! 🚀
-
-— Manoj Kumar Munda
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-kumar-munda&" alt="manoj-kumar-munda" /></p>
