@@ -5,8 +5,8 @@
 
 ## Tech stack
 -   <b>Languages</b>: Typescript, Javascript, Java(core)
--   <b>Framework/Libraries</b>: React, NextJS, Node, Express, Redux, Redux-toolkit, Tailwind, ShadCN, Framer-motion, React-query, Zustand, Vercel AI-SDK, OpenAI SDK, Gemini SDK.
--   <b>Tools</b>: Git, Github, VS Code, Cursor, Github Co-pilot
+-   <b>Framework/Libraries</b>: React, NextJS, Node, Express, Redux, Redux-toolkit, Tailwind, ShadCN, Framer-motion, React-query, Zustand, Vercel AI-SDK.
+-   <b>Tools</b>: Git, Github, VS Code, Cursor, Github Co-pilot, Postman, CI/CD, github-action
 
 
 
