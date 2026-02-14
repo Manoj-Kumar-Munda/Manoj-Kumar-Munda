@@ -8,10 +8,6 @@
 -   <b>Framework/Libraries</b>: React, NextJS, Node, Express, Redux, Redux-toolkit, Tantsack-query, Tailwind, ShadCN, Framer-motion, React-query, Zustand, Vercel AI-SDK.
 -   <b>Tools</b>: Git, Github, VS Code, Cursor, Github Co-pilot, Postman, CI/CD, github-action
 
-# My Projects Portfolio
-
-A collection of my personal and learning projects showcasing full-stack and frontend development skills.
-
 ## Projects
 
 ### Full-stack
