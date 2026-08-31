@@ -12,7 +12,7 @@
 
 ### Full-stack
 
-- [Watchway](https://github.com/manojdev99/watchway) [Live Demo](https://watchway.manojk.online/)
+- [Watchway](https://github.com/manojdev99/watchway) [Live Demo](https://watchway.manojdev.live/)
   - Designed and developed a full-stack YouTube-style video-sharing platform with video upload/playback, search, likes, comments, channel subscriptions, playlists, watch history, and community posts.
   - Built a responsive, SEO-friendly frontend using **Next.js 16 (App Router)**, **React 19**, **Tailwind CSS**, and **shadcn/ui** with reusable components and consistent layout patterns.
   - Implemented secure JWT-based authentication & authorization using httpOnly cookies, access/refresh token rotation, and protected API routes.
